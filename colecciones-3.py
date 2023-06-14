@@ -17,3 +17,4 @@ teacher["groups"].append("3CDSM")
 teacher["phone"]="2471070644"
 teacher["city"]="Huamantla"
 print(teacher)
+
