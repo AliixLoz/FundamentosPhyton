@@ -15,7 +15,7 @@ def duplica(num):
 duplica(5)
 
 def suma(num1, num2):
-    print(f"La suma de los numeros es: {num1, num2}")
+    print(f"La suma de los numeros es: {num1 + num2}")
 
 suma(23, 45)
 
@@ -31,3 +31,4 @@ my_list = get_lista("Peter Parker", "Tony Stark")
 print(my_list)
 my_list = get_lista(al_1="Peter Parker", al_2="Tony Stark")
 print(my_list)
+
